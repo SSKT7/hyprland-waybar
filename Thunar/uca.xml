@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1653152521049373-1</unique-id>
+	<command>foot -T flooat</command>
+	<description></description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>com.github.maoschanz.DynamicWallpaperEditor</icon>
+	<name>Set Wallpaper</name>
+	<submenu></submenu>
+	<unique-id>1653152845925747-1</unique-id>
+	<command>killall swaybg ; swaybg -i %n -m fill</command>
+	<description></description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<image-files/>
+</action>
+<action>
+	<icon>nvim</icon>
+	<name>Open with Nvim</name>
+	<submenu></submenu>
+	<unique-id>1653154187810667-1</unique-id>
+	<command>foot -T flooat -e nvim %n</command>
+	<description></description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>com.github.gijsgoudzwaard.image-optimizer</icon>
+	<name>Mountain</name>
+	<submenu></submenu>
+	<unique-id>1653157696807875-1</unique-id>
+	<command>dunstify -a Thunar -i com.github.gijsgoudzwaard.image-optimizer &quot;ImageGoNord&quot; &quot;Applying color palette&quot; &amp;&amp; python $HOME/Documents/ImageGoNord/src/cli.py --mountain -i=%n -o=$(ls %f | grep %n | cut -f 1 -d &apos;.&apos;)-mountain</command>
+	<description>mountainize a image</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<image-files/>
+</action>
+</actions>

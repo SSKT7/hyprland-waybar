@@ -1,0 +1,6 @@
+2023/08/11-19:26:08.101 7c1 Creating DB /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_economictimes.indiatimes.com_0.indexeddb.leveldb since it was missing.
+2023/08/11-19:26:08.124 7c1 Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_economictimes.indiatimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/11-19:27:56.848 7c2 Level-0 table #5: started
+2023/08/11-19:27:56.851 7c2 Level-0 table #5: 2069 bytes OK
+2023/08/11-19:27:56.854 7c2 Delete type=0 #3
+2023/08/11-19:27:56.854 7c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

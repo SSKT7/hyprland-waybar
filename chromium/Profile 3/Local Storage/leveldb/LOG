@@ -1,0 +1,42 @@
+2023/08/14-19:31:07.246 3 Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2023/08/14-19:31:07.249 3 Recovering log #242
+2023/08/14-19:31:07.251 3 Reusing old log /home/lordgrim/.config/chromium/Profile 3/Local Storage/leveldb/000242.log 
+2023/08/14-20:04:35.420 5 Level-0 table #246: started
+2023/08/14-20:04:35.433 5 Level-0 table #246: 52719 bytes OK
+2023/08/14-20:04:35.439 5 Delete type=0 #242
+2023/08/14-21:24:34.462 5 Level-0 table #248: started
+2023/08/14-21:24:34.475 5 Level-0 table #248: 19792 bytes OK
+2023/08/14-21:24:34.481 5 Delete type=0 #245
+2023/08/14-21:26:02.237 3 Level-0 table #250: started
+2023/08/14-21:26:02.247 3 Level-0 table #250: 53795 bytes OK
+2023/08/14-21:26:02.251 3 Delete type=0 #247
+2023/08/14-21:26:02.251 3 Compacting 4@0 + 1@1 files
+2023/08/14-21:26:02.262 3 Generated table #251@0: 2616 keys, 682469 bytes
+2023/08/14-21:26:02.262 3 Compacted 4@0 + 1@1 files => 682469 bytes
+2023/08/14-21:26:02.265 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/14-21:26:02.265 3 Delete type=2 #250
+2023/08/14-21:26:02.266 3 Delete type=2 #246
+2023/08/14-21:26:02.266 3 Delete type=2 #248
+2023/08/14-21:26:02.266 3 Delete type=2 #243
+2023/08/14-21:26:02.266 3 Delete type=2 #241
+2023/08/14-21:26:35.654 5 Level-0 table #253: started
+2023/08/14-21:26:35.668 5 Level-0 table #253: 71702 bytes OK
+2023/08/14-21:26:35.674 5 Delete type=0 #249
+2023/08/14-21:27:43.582 5 Level-0 table #255: started
+2023/08/14-21:27:43.594 5 Level-0 table #255: 41175 bytes OK
+2023/08/14-21:27:43.598 5 Delete type=0 #252
+2023/08/14-21:32:13.277 5 Level-0 table #257: started
+2023/08/14-21:32:13.287 5 Level-0 table #257: 56317 bytes OK
+2023/08/14-21:32:13.290 5 Delete type=0 #254
+2023/08/14-21:33:31.518 3 Level-0 table #259: started
+2023/08/14-21:33:31.533 3 Level-0 table #259: 62224 bytes OK
+2023/08/14-21:33:31.553 3 Delete type=0 #256
+2023/08/14-21:33:31.553 3 Compacting 4@0 + 1@1 files
+2023/08/14-21:33:31.566 3 Generated table #260@0: 2694 keys, 711248 bytes
+2023/08/14-21:33:31.566 3 Compacted 4@0 + 1@1 files => 711248 bytes
+2023/08/14-21:33:31.569 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/14-21:33:31.570 3 Delete type=2 #255
+2023/08/14-21:33:31.570 3 Delete type=2 #253
+2023/08/14-21:33:31.570 3 Delete type=2 #257
+2023/08/14-21:33:31.570 3 Delete type=2 #251
+2023/08/14-21:33:31.570 3 Delete type=2 #259

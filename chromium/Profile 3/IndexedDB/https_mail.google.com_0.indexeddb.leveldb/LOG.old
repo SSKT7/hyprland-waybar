@@ -1,0 +1,6 @@
+2023/08/12-17:07:02.192 71f Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/12-17:07:02.192 71f Recovering log #3
+2023/08/12-17:07:02.244 71f Reusing old log /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/08/12-17:07:06.527 720 Level-0 table #5: started
+2023/08/12-17:07:06.557 720 Level-0 table #5: 1920817 bytes OK
+2023/08/12-17:07:06.561 720 Delete type=0 #3

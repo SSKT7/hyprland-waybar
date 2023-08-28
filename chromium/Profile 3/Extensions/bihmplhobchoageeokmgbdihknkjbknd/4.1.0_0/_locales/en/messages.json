@@ -1,0 +1,172 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Browse From"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Just a second..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Click to Disconnect"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Connecting"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Share to Connect"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Click to Connect"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Disconnecting"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "You Are Browsing From"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Encryption is"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "enabled"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "disabled"
+   },
+   "description": {
+      "description": "",
+      "message": "Unblock any website and stay secure with Touch VPN. One-click connect to our fast VPN. Unlimited bandwidth and completely FREE!"
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Sever is down. Please check your network connections. Sorry about that."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Proxy service unavailable now. Sorry about that. Please try to choose another one."
+   },
+   "location": {
+      "description": "",
+      "message": "From"
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Select Automatically"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Choose Location"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Virtual Location"
+   },
+   "mobilePromoTitle": {
+      "description": "",
+      "message": "Check out TouchVPN for your mobile devices"
+   },
+   "name": {
+      "description": "",
+      "message": "Touch VPN - Secure and unlimited VPN proxy"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Thank you!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">You are Awesome!\u003C/p>\u003Cp>Please take a moment to give Us 5 star rating on Chrome Store.\u003C/p>\u003Cp class=\"small\">In a moment you will be redirected...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "Do you like TouchVPN? Please Rate Us."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Remind Later"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "I love using TouchVPN to securely access sites and apps. Try it, it’s completely FREE!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Thank you!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Thank you so much for spreading the love!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Share us on social media and spread the love!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Home"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Privacy Policy"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Terms Of Service"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "version $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "Touch VPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Please disable other extensions (ad-blockers, other VPN services, etc.) that control your proxy settings."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Disable Other VPN Extensions"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "TouchVPN is being interrupted by another Chrome extension that is controlling your proxy settings."
+   },
+   "zone_connected": {
+      "description": "",
+      "message": "You Are Browsing"
+   },
+   "zone_connecting": {
+      "description": "",
+      "message": "Browse"
+   },
+   "zone_disconnected": {
+      "description": "",
+      "message": "Browse"
+   }
+}

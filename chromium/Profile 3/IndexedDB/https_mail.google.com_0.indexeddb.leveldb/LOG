@@ -1,0 +1,15 @@
+2023/08/13-21:34:41.859 71c Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-21:34:41.860 71c Recovering log #4
+2023/08/13-21:34:41.872 71c Reusing old log /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/08/13-22:52:54.301 71d Level-0 table #8: started
+2023/08/13-22:52:54.347 71d Level-0 table #8: 1622611 bytes OK
+2023/08/13-22:52:54.354 71d Delete type=0 #4
+2023/08/13-22:52:54.356 71d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/13-22:52:54.357 71d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4182 : 1
+2023/08/13-22:52:54.357 71d Compacting 1@1 + 1@2 files
+2023/08/13-22:52:54.380 71d Generated table #9@1: 127 keys, 120239 bytes
+2023/08/13-22:52:54.380 71d Compacted 1@1 + 1@2 files => 120239 bytes
+2023/08/13-22:52:54.383 71d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/13-22:52:54.384 71d Delete type=2 #5
+2023/08/13-22:52:54.384 71d Delete type=2 #8
+2023/08/13-22:52:54.385 71d Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4182 : 1 .. (end); will stop at (end)

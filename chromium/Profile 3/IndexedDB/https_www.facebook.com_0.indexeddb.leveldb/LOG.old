@@ -1,0 +1,12 @@
+2023/08/14-20:51:47.627 646 Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/14-20:51:47.628 646 Recovering log #93
+2023/08/14-20:51:47.762 646 Reusing old log /home/lordgrim/.config/chromium/Profile 3/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000093.log 
+2023/08/14-20:52:05.991 647 Level-0 table #99: started
+2023/08/14-20:52:06.030 647 Level-0 table #99: 1549516 bytes OK
+2023/08/14-20:52:06.034 647 Delete type=0 #93
+2023/08/14-20:52:07.219 647 Compacting 1@1 + 1@2 files
+2023/08/14-20:52:07.284 647 Generated table #100@1: 5032 keys, 375457 bytes
+2023/08/14-20:52:07.284 647 Compacted 1@1 + 1@2 files => 375457 bytes
+2023/08/14-20:52:07.287 647 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/14-20:52:07.287 647 Delete type=2 #96
+2023/08/14-20:52:07.287 647 Delete type=2 #99

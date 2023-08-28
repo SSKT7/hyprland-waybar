@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Bu Ülkeden Giriş Yap"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Bir dakika bekleyin..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Bağlantıyı kesmek için tıklayın"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Bağlanıyor"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Bağlanmak için Paylaşın"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Bağlanmak için tıklayın"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Bağlantı Kesiliyor"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "Bu Ülkeden Giriş Yaptınız"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Şifreleme"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "etkin"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "devre dışı"
+   },
+   "description": {
+      "description": "",
+      "message": "Touch VPN ile tüm sitelerin engelini kaldırın ve güvende kalın. Tek tıkla aktivasyon sayesinde kolay kullanım. Sınırsız ve tamamen ÜCRETSİZ!"
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Sunucu arızalı. Lütfen ağ bağlantılarınızı kontrol edin. Özür dileriz."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Proxy hizmetimiz şu anda kullanılamıyor. Özür dileriz. Lütfen farklı bir seçenek belirleyin."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Otomatik Seçim"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Konum Seç"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Sanal Konum"
+   },
+   "name": {
+      "description": "",
+      "message": "Touch VPN - Ücretsiz VPN ve Proxy"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">Harikasınız!\u003C/p>\u003Cp>Lütfen bir dakikanızı ayırıp Chrome Web Mağazası'nda bize 5 yıldız verin.\u003C/p>\u003Cp class=\"small\">Hemen yönlendirileceksiniz...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "TouchVPN'i beğendiniz mi? Lütfen Derecelendirin."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Daha Sonra Hatırlat"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "Güvenli bir şekilde site ve uygulamalara erişebilmek için TouchVPN'i tercih ediyorum. Deneyin, tamamen ÜCRETSİZ!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Mutluluğunuzu paylaştığınız için çok teşekkür ederiz!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Bizi sosyal medyada paylaşarak mutluluğu da paylaşın!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Ana Sayfa"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Gizlilik İlkesi"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Hizmet Şartları"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "sürüm $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "Touch VPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Lütfen proxy ayarlarınızı kontrol eden diğer uzantıları (reklam engelleme yazılımları, diğer VPN hizmetleri vb.) devre dışı bırakın."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Diğer VPN Uzantılarını Devre Dışı Bırakın"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "TouchVPN, proxy ayarlarınızı kontrol eden bir başka Chrome uzantısı tarafından engelleniyor."
+   }
+}

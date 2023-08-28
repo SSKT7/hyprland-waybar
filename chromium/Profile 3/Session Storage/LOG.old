@@ -1,0 +1,15 @@
+2023/08/14-16:58:32.245 3 Reusing MANIFEST /home/lordgrim/.config/chromium/Profile 3/Session Storage/MANIFEST-000001
+2023/08/14-16:58:32.245 3 Recovering log #91
+2023/08/14-16:58:32.246 3 Reusing old log /home/lordgrim/.config/chromium/Profile 3/Session Storage/000091.log 
+2023/08/14-18:28:59.767 4 Level-0 table #95: started
+2023/08/14-18:28:59.780 4 Level-0 table #95: 22648 bytes OK
+2023/08/14-18:28:59.786 4 Delete type=0 #91
+2023/08/14-18:28:59.787 4 Compacting 4@0 + 1@1 files
+2023/08/14-18:28:59.816 4 Generated table #96@0: 3502 keys, 68188 bytes
+2023/08/14-18:28:59.816 4 Compacted 4@0 + 1@1 files => 68188 bytes
+2023/08/14-18:28:59.820 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/14-18:28:59.822 4 Delete type=2 #92
+2023/08/14-18:28:59.822 4 Delete type=2 #83
+2023/08/14-18:28:59.823 4 Delete type=2 #89
+2023/08/14-18:28:59.823 4 Delete type=2 #95
+2023/08/14-18:28:59.823 4 Delete type=2 #85

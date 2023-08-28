@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Navigieren von"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Eine Sekunde …"
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Zum Trennen der Verbindung klicken"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Verbinde"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Zum Herstellen der Verbindung empfehlen"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Zum Herstellen der Verbindung klicken"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Wird getrennt"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "Sie navigieren von"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Verschlüsselung ist"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "aktiviert"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "deaktiviert"
+   },
+   "description": {
+      "description": "",
+      "message": "Mit Touch VPN können Sie gesperrte Websites entsperren und sich schützen.Einfache Verwendung mit Aktivierung per Mausklick.Unbegrenzt und völlig KOSTENLOS!"
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Der Server ist nicht verfügbar. Überprüfen Sie Ihre Netzwerkverbindungen. Es tut uns leid."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Der Proxy-Dienst ist jetzt nicht verfügbar. Es tut uns leid. Versuchen Sie, einen anderen auszuwählen."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Automatisch auswählen"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Standort auswählen"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Virtueller Standort"
+   },
+   "name": {
+      "description": "",
+      "message": "Touch VPN – Kostenloses VPN und kostenloser Proxy"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Vielen Dank!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">Sie sind großartig!\u003C/p>\u003Cp>Nehmen Sie sich einen Moment Zeit und geben Sie uns eine 5-Sterne-Bewertung im Chrome Store.\u003C/p>\u003Cp class=\"small\">Sie werden in Kürze weitergeleitet ...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "Gefällt Ihnen Touch VPN? Bitte bewerten Sie uns."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Später erinnern"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "Ich liebe es, TouchVPN für den sicheren Zugriff auf Websites und Apps zu verwenden. Probieren Sie es aus, es ist völlig KOSTENLOS."
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Vielen Dank!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Vielen Dank, dass Sie etwas Gutes tun."
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Empfehlen Sie uns in sozialen Medien und tun Sie damit etwas Gutes."
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Startseite"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Datenschutzrichtlinie"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Servicebedingungen"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "version $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "Touch VPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Deaktivieren Sie andere Erweiterungen (Adblocker, andere VPN-Dienste, usw.), die die Proxy-Einstellungen kontrollieren."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Andere VPN-Erweiterungen deaktivieren"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "TouchVPN wird von einer anderen Chrome-Erweiterung unterbrochen, die Ihre Proxy-Einstellungen kontrolliert."
+   }
+}
