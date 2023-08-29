@@ -10,12 +10,20 @@ maybe you have to make some tweaks according to your distro and configuration
 
 Here r some helpful shortcuts
 mod = win
+
 mod + w = wifi menu
+
 win + enter = terminal 
+
 win + d = rofi
+
 win + x = wlogout
+
 win + f = fullscreen
+
 win + up,down,right,left = resize
+
 win + t = floating mode
+
 If u need help u can contact me on facebook ,I would be happy to help.
 https://www.facebook.com/Tasin7512/
